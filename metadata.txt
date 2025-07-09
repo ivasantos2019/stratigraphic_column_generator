@@ -1,0 +1,25 @@
+[general]
+name=GISCopilot
+description=Plugin de IA para gerar código PyQGIS com linguagem natural
+version=0.1
+author=Seu Nome
+email=seu@email.com
+qgisMinimumVersion=3.16
+
+[files]
+__init__.py
+GISCopilot.py
+GISCopilot_dialog.py
+llm_interface.py
+
+[icon]
+icon.png
+
+[homepage]
+https://github.com/seuusuario/GISCopilot
+
+[tracker]
+https://github.com/seuusuario/GISCopilot/issues
+
+[repository]
+https://github.com/seuusuario/GISCopilot
