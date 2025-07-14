@@ -1,0 +1,16 @@
+[general]
+name=3DGeoView
+description=Visualize modelos 3D geocientíficos do Sketchfab no QGIS
+description=Permite pesquisar, listar e futuramente visualizar modelos 3D diretamente da plataforma Sketchfab dentro do QGIS.
+version=1.0
+qgisMinimumVersion=3.16
+author=GeoSmart
+email=geral@geosmart.pt
+repository=https://github.com/ivasantos2019/Geoview_3d.git
+tracker=https://github.com/ivasantos2019/Geoview_3d/issues
+homepage=https://github.com/ivasantos2019/Geoview_3d
+icon=icon.png
+experimental=True
+deprecated=False
+tags=3d, sketchfab, geociencias, modelos 3d, qgis, sig, visualizacao
+category=Visualization

@@ -1,0 +1,65 @@
+# 3DGeoView
+
+**Plugin QGIS para Visualização de Modelos 3D Estruturais via Sketchfab**
+
+---
+
+## Descrição
+
+O 3DGeoView é um plugin para o QGIS que permite a busca e visualização de modelos 3D relacionados a geociências, diretamente da plataforma Sketchfab, dentro do ambiente do QGIS.
+
+Ideal para geólogos, geofísicos e profissionais das ciências da terra que desejam integrar modelos estruturais 3D aos seus projetos GIS, facilitando a análise visual e o entendimento de dados geológicos complexos.
+
+---
+
+## Funcionalidades
+
+- Busca rápida por modelos 3D geológicos no Sketchfab.
+- Visualização básica de modelos 3D no painel dock do QGIS.
+- Interface intuitiva e integrada ao QGIS.
+- Preparado para futuras integrações com visualizadores 3D nativos do QGIS.
+
+---
+
+## Instalação
+
+1. Clone ou baixe este repositório para a pasta de plugins do QGIS.
+2. No QGIS, vá até **Complementos > Gerenciar e Instalar Complementos**.
+3. Ative o plugin **3DGeoView** na lista de complementos instalados.
+4. O plugin adicionará um botão na barra de ferramentas e um menu para abrir a janela do 3DGeoView.
+
+---
+
+## Uso
+
+1. Abra o plugin pelo menu **3DGeoView** ou pela barra de ferramentas.
+2. Digite palavras-chave relacionadas ao modelo geológico que deseja buscar (exemplo: "falha geológica", "dobra").
+3. Clique em **Buscar** para obter modelos disponíveis no Sketchfab.
+4. Selecione o modelo desejado e clique em **Carregar modelo selecionado** (função de visualização 3D ainda em desenvolvimento).
+
+---
+
+## Requisitos
+
+- QGIS 3.x
+- Python 3
+- Conexão com internet para busca via API Sketchfab
+
+---
+
+## Desenvolvimento
+
+Este é um projeto em desenvolvimento aberto a contribuições. Para sugestões, dúvidas ou para colaborar, abra uma issue ou envie um pull request no GitHub.
+
+---
+
+## Licença
+
+MIT License — Uso livre e aberto para a comunidade geocientífica.
+
+---
+
+## Autor
+
+Seu Nome — contato@email.com
+
